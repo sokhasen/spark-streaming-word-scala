@@ -1,4 +1,4 @@
-# spark-streaming-word-scala
+# spark-streaming-word-scala with delta lake
 
 #### Run
 - publish socket: `nc -lk 9999`
